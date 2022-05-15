@@ -1,0 +1,1 @@
+cmd_/home/stud/Desktop/sensor/coin_cdriv.ko := arm-poky-linux-gnueabi-ld -r -EL --build-id  -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds -o /home/stud/Desktop/sensor/coin_cdriv.ko /home/stud/Desktop/sensor/coin_cdriv.o /home/stud/Desktop/sensor/coin_cdriv.mod.o;  true

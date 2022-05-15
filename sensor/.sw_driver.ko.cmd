@@ -1,0 +1,1 @@
+cmd_/home/stud/Desktop/swDriver/sw_driver.ko := arm-poky-linux-gnueabi-ld -r -EL --build-id  -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds -o /home/stud/Desktop/swDriver/sw_driver.ko /home/stud/Desktop/swDriver/sw_driver.o /home/stud/Desktop/swDriver/sw_driver.mod.o;  true
